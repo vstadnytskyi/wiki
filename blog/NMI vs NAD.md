@@ -13,9 +13,11 @@ We can also look at how correlated the prices of these funds are:
 
 ![Unknown-2](https://user-images.githubusercontent.com/29989124/202819637-fb49eaeb-9a79-41e1-952c-37fbaa602a27.png)
 
+The closing price for these two funds is highly correlated
 
-Pearson Correletaion 0.981
-Spearman Correletaion 0.979
+- Pearson Correletaion 0.981
+- Spearman Correletaion 0.979
 
 The return on investment is hugely different for two differen fund
+
 ![Unknown-5](https://user-images.githubusercontent.com/29989124/202819732-c0e8974c-ad61-4dba-b29d-d7198381a6b7.png)
