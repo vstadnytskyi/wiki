@@ -28,4 +28,4 @@ One of my favorite features of dividend-paying whole life insurance is the abili
 
 ## A story of Zeus, Hera, and their son Ares.
 
-Let us imagine a hypothetical family: a husband named Zeus, a wife Hera, and a son Ares. Zeus is 35 years old, Hera is 38 and Ares is a newborn. All three are non-smoking and healthy. Before Ares was born Zeus and Hera has insured themself  
+Let us imagine a hypothetical family: a husband named Zeus, a wife Hera, and a son Ares. Zeus is 35 years old, Hera is 38 and Ares is a newborn. All three are non-smoking and healthy. Before Ares was born Zeus and Hera has insured themself. 
