@@ -24,6 +24,8 @@ In plane simple language, insurance company pays you annual dividends on entire 
 
 ## Borrow against cash value
 
+One of my favorite features of dividend paying whole life insurance is the ability to borrow against your cash value. The key word here is **against**. If you have $500k in your cash value, you can borrow $500k from insurance company no questions asked. You will pay 5% interest rate on borrowed cash **AND** you will be paid dividends on entire $500k cash value. Remember, you are borrowing against your cash value and not from it. If you do a simple math and concider the worth case scenario for a yearly dividend rate (Guaranteed 3%) and your borrow at 5% rate, you effectively just got $500k at 2% interest rate. During the lowest federal reserve rate, the mortgage interst rate was around 3%. Isn't it amazing!
 
+## A story of Zeus, Hera and their son Ares.
 
 Let us imaging a hipothethical family: a father named Zeus, wife Hera and son Ares. Zeus is 35 years old, Hera is 38 and Ares ia a newborn. All three are non-smoking and healthy. Before Ares was born Zeus and Hera has insured themself  
