@@ -19,7 +19,7 @@ Every year you can contribute up to the MEC limit to your whole life insurance c
 ## Dividends paid on the cash value in the whole life 
 In simple plain language, the insurance company pays you annual dividends on the entire pile of money you have in your whole life insurance cash value. The amount of dividends can vary from year to year depending on multiple factors. However, you get guaranteed dividends at a 3% annual rate regardless of what is going on with the markets. And insurance companies usually pay more than guaranteed(bare minimum). You can check out historic rates for the last many years. In the figure below, I am showing inflation rates, federal reserve rates, and the dividend paid by Guardian Mutual. To get to this stage you need to start early and have a long-term commitment.
 
-![image](https://user-images.githubusercontent.com/29989124/205187569-45d6455a-03d4-4a70-ac3d-bdf666244732.png)
+![image](https://user-images.githubusercontent.com/29989124/205187664-b815de73-698c-4f22-9fe1-eed85fbefc48.png)
 
 You can google the historic dividends rate or check out this table https://webfiles2.nfp.com/webfiles/public/insurance/prodexpert/Historical_Whole_Life_Dividends.pdf or webpage https://topwholelife.com/whole-life-insurance-dividend-rate-history/
 
