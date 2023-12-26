@@ -29,3 +29,6 @@ Trading Costs: Depending on your broker, transaction costs may vary by day of th
 ## Conclusion
 
 Investing weekly offers several benefits, including financial discipline, dollar-cost averaging, compounding, and accessibility. However, choosing the right day to invest can be challenging due to market fluctuations, the absence of a one-size-fits-all answer, psychological factors, and trading costs. The key to success lies in your long-term commitment and your ability to stay the course, regardless of which day you choose. In the end, consistent and disciplined investing will likely yield positive results over time, regardless of the specific day of the week.
+
+
+Add information from my Jupyter notebook investments.ipynb where I have calculated what is the difference between investing on Monday or other daay of the week. I will talk about an unexpected results.
